@@ -237,7 +237,7 @@ class IBMECBot(ActivityHandler):
         return CardFactory.hero_card(
             HeroCard(
                 title="Calendário Acadêmico 2025.1",
-                images=[CardImage(url="https://blog.ibmec.br/wp-content/uploads/2025/05/Calendario-Academico_2025_1_V3-Ibmec5_RJ.png")],
+                images=[CardImage(url="https://i.ibb.co/2YKXF4hT/Calendario-Academico-2025-1-V3-Ibmec5-RJ-1.png")],
             )
         )
 
@@ -262,7 +262,7 @@ class IBMECBot(ActivityHandler):
         return CardFactory.hero_card(
             HeroCard(
                 title="Secretaria",
-                images=[CardImage(url="https://hddjdjghjfghjhf.com/foto.png")],
+                images=[CardImage(url="https://i.ibb.co/Qv9PFjzZ/secretaria.jpg")],
                 buttons=[CardAction(type=ActionTypes.open_url, title="Contato", value="mailto:secretaria@ibmec.br")],
             )
         )
